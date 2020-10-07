@@ -293,6 +293,7 @@ header{
 	position: absolute;
 	right: 1em;
 	z-index: 1000;
+	margin: 8px;
 }
 
 .nav-open .nav{
