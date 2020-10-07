@@ -617,7 +617,7 @@ header{
 	overflow: hidden;
   }
   
-  .thumbnail > img {
+  .thumbnail .img {
 	width: 370px;
     height: 250px;
     object-fit: cover;
@@ -639,11 +639,11 @@ header{
 	z-index: 2;
   }
   
-  .thumbnail:hover > img {
+  .thumbnail:hover .img {
 	transform: scale(1.3);
   }
   
-  .thumbnail:hover > div {
+  .thumbnail:hover .div {
 	opacity: 1;
   }
   
