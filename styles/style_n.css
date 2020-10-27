@@ -478,7 +478,7 @@ header{
 /*-----MY WORK---- */
 
 .my-work{
-	background-image: url('../images/bg2.jpg');
+	background-image: url('../images/bg4.jpg');
 	background-color: var(--clr-dark);
 	background-size: cover;
 	background-blend-mode: multiply;
